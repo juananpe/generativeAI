@@ -12,3 +12,7 @@ All contributors will be appropriately credited for their additions. Let's work 
 Thanks to:
 - @tendo@infosec.exchange
 - @winnie@sunny.garden
+
+Latest version:
+
+[<img src="https://github.com/juananpe/generativeAI/blob/main/generativeAI_v0_1.png">]([http://google.com.au/](https://github.com/juananpe/generativeAI/blob/main/generativeAI_v0_1.png))
