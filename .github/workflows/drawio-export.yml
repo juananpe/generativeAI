@@ -13,7 +13,7 @@ jobs:
   drawio-export:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout sources. Make sure that the token has write permissions and the export folder exists.
+      - name: Checkout sources
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -24,6 +24,9 @@ jobs:
         with:
           format: png
           transparent: true
+          path: .
+          output: .
+          action-mode: all
 
       - name: Get author and committer info from HEAD commit
         uses: rlespinasse/git-commit-data-action@v1
