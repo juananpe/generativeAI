@@ -14,5 +14,4 @@ Thanks to:
 - @winnie@sunny.garden
 
 Latest version:
-
-[<img src="https://github.com/juananpe/generativeAI/blob/main/generativeAI_v0_1.png">]([http://google.com.au/](https://github.com/juananpe/generativeAI/blob/main/generativeAI_v0_1.png))
+<img src="https://github.com/juananpe/generativeAI/blob/main/generativeAI_v0_2.png">
