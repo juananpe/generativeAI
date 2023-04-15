@@ -9,3 +9,6 @@ This concept map is intended to be a community resource. Please feel free to con
 All contributors will be appropriately credited for their additions. Let's work together to build out this knowledge base on this fascinating field!
 
 
+Thanks to:
+- @tendo@infosec.exchange
+- @winnie@sunny.garden
