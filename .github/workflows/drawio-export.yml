@@ -13,7 +13,7 @@ jobs:
   drawio-export:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout sources. Make sure that the token has write permissions
+      - name: Checkout sources. Make sure that the token has write permissions and export folder exists
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
