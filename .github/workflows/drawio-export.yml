@@ -22,7 +22,7 @@ jobs:
       - name: Export drawio files to png files
         uses: rlespinasse/drawio-export-action@v2
         with:
-          format: png
+          format: jpg
           transparent: true
           path: .
           output: .
