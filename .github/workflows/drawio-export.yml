@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Export drawio files to png files
-        uses: rlespinasse/drawio-export-action@v2
+        uses: juananpe/drawio-export-action@v2
         with:
           format: jpg
           transparent: true
