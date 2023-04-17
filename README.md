@@ -8,6 +8,9 @@ This concept map is intended to be a community resource. Please feel free to con
 
 All contributors will be appropriately credited for their additions. Let's work together to build out this knowledge base on this fascinating field!
 
+# How to contribute
+
+Fork this project. Open the drawio file in diagrams.net. You can use the following URL (replace juananpe by your own GitHub username): https://app.diagrams.net/#Hjuananpe%2FgenerativeAI%2Fmain%2FgenerativeAI.drawio
 
 Thanks to:
 - @tendo@infosec.exchange
