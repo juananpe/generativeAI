@@ -737,7 +737,7 @@
         <mxCell id="pncwD2yv2-toFsTXnSwA-60" value="Autonomous&lt;br&gt;System" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="610" width="80" height="31" as="geometry"/>
         </mxCell>
-        <object label="&lt;font color=&quot;#cccccc&quot;&gt;Version: %cmversion%&lt;/font&gt;" placeholders="1" cmversion="0.10" id="legend">
+        <object label="&lt;font color=&quot;#cccccc&quot;&gt;Version: %cmversion%&lt;/font&gt;" placeholders="1" cmversion="0.11" id="legend">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" parent="1" vertex="1">
             <mxGeometry x="840" y="721" width="170" height="29" as="geometry"/>
           </mxCell>
