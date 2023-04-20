@@ -30,8 +30,7 @@ jobs:
       - name: Export drawio files to png files
         uses: juananpe/drawio-export-action@v2.x
         with:
-          format: png
-          transparent: true
+          format: svg
           path: .
           output: .
           action-mode: all
