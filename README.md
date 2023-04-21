@@ -17,4 +17,4 @@ Thanks to:
 - @winnie@sunny.garden
 
 Latest version:
-<img src="blob/main/generativeAI-Page-1.svg">
+<img src="https://github.com/juananpe/generativeAI/blob/main/generativeAI-Page-1.svg">
