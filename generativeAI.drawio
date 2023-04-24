@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T18:09:02.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_1jjkhtFdZFyhanFVcPy" compressed="false" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T18:09:37.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wMTk67XLFN2Cfh4ul6Wt" compressed="false" version="21.1.8" type="github">
   <diagram name="Page-1" id="zYdKh_WhomsrJ0pVKOLc">
     <mxGraphModel dx="1834" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -871,7 +871,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anla5Jb9fiCcCMFD98uM-6" value="Suno.ai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Anla5Jb9fiCcCMFD98uM-6" value="Suno.ai" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="10" y="671" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
